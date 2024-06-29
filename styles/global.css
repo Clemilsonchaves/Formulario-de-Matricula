@@ -20,6 +20,8 @@
   --stroke-defaut: #D6D3D1;
   --stroke-highlight: #F3541C;
   --semantc-error: #DC2626;
+
+  zoom: 70%
 }
 
 body {
